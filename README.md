@@ -60,9 +60,9 @@ print(sce)
 
 ## 🤝 Dependencies & Acknowledgements
 
-`tinycell` stands on the shoulders of giants. We deeply rely on and are
-grateful for the following outstanding open-source projects: \*
-[Seurat](https://satijalab.org/seurat/) (Core data infrastructure) \*
-[scDblFinder](https://bioconductor.org/packages/scDblFinder/) (Doublet
-identification) \* [Harmony](https://github.com/immunogenomics/harmony)
-(Batch effect integration)
+`tinycell` stands on the shoulders of giants. We deeply rely on and are grateful for the following outstanding open-source projects: 
+
+- [Seurat](https://satijalab.org/seurat/) (Core data infrastructure) 
+- [scDblFinder](https://bioconductor.org/packages/scDblFinder/) (Doublet identification) 
+-  [Harmony](https://github.com/immunogenomics/harmony)(Batch effect integration)
+
