@@ -14,3 +14,5 @@ Imports:
     Seurat,
     SeuratObject,
     SingleCellExperiment
+URL: https://github.com/smileszh/tinycell
+BugReports: https://github.com/smileszh/tinycell/issues
